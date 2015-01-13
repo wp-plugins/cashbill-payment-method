@@ -20,7 +20,7 @@ Gdy na rynku pojawiają się nowe banki, instrumenty płatnicze lub inne metody 
 
 = WYMAGANIA INSTALACYJNE =
 
-Poprawne korzystanie z modułu płatności CashBill jest możliwe tylko i wyłącznie w momencie posiadania konta oraz stworzenia punkty płatności internetowej. 
+Poprawne korzystanie z modułu płatności CashBill jest możliwe tylko i wyłącznie w momencie posiadania konta oraz stworzenia punktu płatności internetowej. 
 
 = INSTALACJA MODUŁU =
 
