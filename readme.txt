@@ -1,6 +1,5 @@
-﻿=== CashBill.pl - Płatności WooCommerce  ===
-Contributors: cashbill.pl
-Donate link: http://cashbill.pl/
+﻿=== CashBill - Płatności WooCommerce  ===
+Contributors: CashBill
 Tags: cashbill, płatności, payment, woocommerce, payment gateway, bramka płatności
 Requires at least: 3.0.1
 Tested up to: 4.0
