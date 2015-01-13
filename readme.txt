@@ -1,8 +1,8 @@
-﻿=== CashBill - Płatności WooCommerce  ===
+﻿=== WooCommerce Payment Gateway - CashBill  ===
 Contributors: CashBill
 Tags: cashbill, płatności, payment, woocommerce, payment gateway, bramka płatności
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.3.3
 License: GPLv2 
 
