@@ -2,7 +2,7 @@
 Contributors: CashBill
 Tags: WooCommerce, Payment, Gateway, Shopping Cart, CashBill, Płatności, Bramka Płatności, Płatności Internetowe, Ekspresowe Płatności
 Requires at least: 3.0.1
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.3.3
 License: GPLv2 
 
